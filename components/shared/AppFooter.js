@@ -12,22 +12,22 @@ const socialLinks = [
 	{
 		id: 1,
 		icon: <FiGithub />,
-		url: 'https://github.com/realstoman',
+		url: '#',
 	},
 	{
 		id: 2,
 		icon: <FiTwitter />,
-		url: 'https://twitter.com/realstoman',
+		url: '#',
 	},
 	{
 		id: 3,
 		icon: <FiBook />,
-		url: 'https://stoman.medium.com',
+		url: '#',
 	},
 	{
 		id: 4,
 		icon: <FiInstagram />,
-		url: 'https://instagram.com/realstoman',
+		url: '#',
 	},
 ];
 

@@ -7,6 +7,10 @@ module.exports = {
 	],
 	darkMode: 'class',
 	theme: {
+		fontFamily: {
+			sing: [ 'Great Vibes','Cursive'],
+			
+		  },
 		extend: {
 			colors: {
 				// Light colors
